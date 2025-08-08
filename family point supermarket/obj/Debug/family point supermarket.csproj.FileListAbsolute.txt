@@ -1,0 +1,17 @@
+C:\family point supermarket\family point supermarket\bin\Debug\family point supermarket.exe.config
+C:\family point supermarket\family point supermarket\bin\Debug\family point supermarket.exe
+C:\family point supermarket\family point supermarket\bin\Debug\family point supermarket.pdb
+C:\family point supermarket\family point supermarket\obj\Debug\family point supermarket.csproj.AssemblyReference.cache
+C:\family point supermarket\family point supermarket\obj\Debug\family_point_supermarket.Form1.resources
+C:\family point supermarket\family point supermarket\obj\Debug\family_point_supermarket.Properties.Resources.resources
+C:\family point supermarket\family point supermarket\obj\Debug\family point supermarket.csproj.GenerateResource.cache
+C:\family point supermarket\family point supermarket\obj\Debug\family point supermarket.csproj.CoreCompileInputs.cache
+C:\family point supermarket\family point supermarket\obj\Debug\family point supermarket.exe
+C:\family point supermarket\family point supermarket\obj\Debug\family point supermarket.pdb
+C:\family point supermarket\family point supermarket\obj\Debug\family_point_supermarket.Splash.resources
+C:\family point supermarket\family point supermarket\obj\Debug\family_point_supermarket.ProductForm.resources
+C:\family point supermarket\family point supermarket\bin\Debug\Guna.UI2.dll
+C:\family point supermarket\family point supermarket\obj\Debug\family p.20F4A0E6.Up2Date
+C:\family point supermarket\family point supermarket\obj\Debug\family_point_supermarket.CategoryForm.resources
+C:\family point supermarket\family point supermarket\obj\Debug\family_point_supermarket.SellerForm1.resources
+C:\family point supermarket\family point supermarket\obj\Debug\family_point_supermarket.SellingForm.resources
